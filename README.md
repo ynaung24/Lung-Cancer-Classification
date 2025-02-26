@@ -22,8 +22,6 @@ Lung cancer is one of the leading causes of cancer-related deaths worldwide. Ear
 
 The dataset used in this project is `cancer.csv`. It contains various features related to patient demographics, medical history, and lifestyle factors.
 
-**Note:** Ensure that you have the necessary permissions to use and distribute the dataset. If the dataset is sourced from a public repository or research paper, provide appropriate citations.
-
 ## Features
 
 The dataset includes the following features:
