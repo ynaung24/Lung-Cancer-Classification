@@ -66,7 +66,11 @@ To set up the project locally, follow these steps:
 ## Contributors
 
 This project was developed by:
+    
     - Yan Naing Aung
+    
     - Abdullah Bera
+    
     - Promise Yigezu
+    
     - Hamza Louzan
